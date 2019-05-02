@@ -14,3 +14,8 @@ Your application will need to make use of the following resources:
     - https://docs.oracle.com/javase/tutorial/essential/regex/ (Links to an external site.)Links to an external site.
     - http://www.vogella.com/tutorials/JavaRegularExpressions/article.html (Links to an external site.)Links to an external site.
     - https://www.tutorialspoint.com/java/java_regular_expressions.htm (Links to an external site.)Links to an external site.Create an application that allows the user to pull up a specific version, book, chapter, or verse of the bible and then select another version to compare it too.  The user will also have a text area to take notes with.
+  - ### JDBC API and Streams - Java API that can access any kind of tabular data, especially data stored in a Relational Database. JDBC works with Java on a variety of platforms, such as Windows, Mac OS, and the various versions of UNIX.
+    - https://docs.oracle.com/javase/tutorial/jdbc/basics/ (Links to an external site.)Links to an external site.
+    - http://www.tutorialspoint.com/jdbc/ (Links to an external site.)Links to an external site.
+    - https://docs.oracle.com/javase/8/docs/api/java/util/stream/Stream.html (Links to an external site.)Links to an external site.
+    - https://www.tutorialspoint.com/java8/java8_streams.htm (Links to an external site.)Links to an external site. (Links to an external site.)Links to an external site.
