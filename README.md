@@ -5,5 +5,12 @@ For you Final Project, you will need to create a GUI application that allows you
 ## Project Submission
   - Upload a zip file of the entire project to Canvas
   - Provide the Github URL link to the repository in the comment section
-  
-Create an application that allows the user to pull up a specific version, book, chapter, or verse of the bible and then select another version to compare it too.  The user will also have a text area to take notes with.
+
+## Project Requirements
+Your application will need to make use of the following resources:
+  - ### JSoup - Java library for working with real-world HTML. It provides a very convenient API for extracting and manipulating data, using the best of DOM, CSS, and jquery-like methods.
+    - https://jsoup.org/ (Links to an external site.)Links to an external site.
+    - http://www.javatpoint.com/jsoup-tutorial (Links to an external site.)Links to an external site.
+    - https://docs.oracle.com/javase/tutorial/essential/regex/ (Links to an external site.)Links to an external site.
+    - http://www.vogella.com/tutorials/JavaRegularExpressions/article.html (Links to an external site.)Links to an external site.
+    - https://www.tutorialspoint.com/java/java_regular_expressions.htm (Links to an external site.)Links to an external site.Create an application that allows the user to pull up a specific version, book, chapter, or verse of the bible and then select another version to compare it too.  The user will also have a text area to take notes with.
