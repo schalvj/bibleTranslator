@@ -8,7 +8,7 @@ For you Final Project, you will need to create a GUI application that allows you
 
 ## Project Requirements
 Your application will need to make use of the following resources:
-  - ### JSoup ### - Java library for working with real-world HTML. It provides a very convenient API for extracting and manipulating data, using the best of DOM, CSS, and jquery-like methods.
+  - ### JSoup - Java library for working with real-world HTML. It provides a very convenient API for extracting and manipulating data, using the best of DOM, CSS, and jquery-like methods.
     - https://jsoup.org/ (Links to an external site.)Links to an external site.
     - http://www.javatpoint.com/jsoup-tutorial (Links to an external site.)Links to an external site.
     - https://docs.oracle.com/javase/tutorial/essential/regex/ (Links to an external site.)Links to an external site.
@@ -19,3 +19,6 @@ Your application will need to make use of the following resources:
     - http://www.tutorialspoint.com/jdbc/ (Links to an external site.)Links to an external site.
     - https://docs.oracle.com/javase/8/docs/api/java/util/stream/Stream.html (Links to an external site.)Links to an external site.
     - https://www.tutorialspoint.com/java8/java8_streams.htm (Links to an external site.)Links to an external site. (Links to an external site.)Links to an external site.
+  - ### JavaFX - is a software platform for creating and delivering desktop applications, as well as rich internet applications (RIAs) that can run across a wide variety of devices.
+    - http://docs.oracle.com/javafx/2/overview/jfxpub-overview.htm (Links to an external site.)Links to an external site.
+    - http://docs.oracle.com/javafx/2/get_started/jfxpub-get_started.htm (Links to an external site.)
