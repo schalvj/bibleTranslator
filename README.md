@@ -8,7 +8,7 @@ For you Final Project, you will need to create a GUI application that allows you
 
 ## Project Requirements
 Your application will need to make use of the following resources:
-  - ### JSoup - Java library for working with real-world HTML. It provides a very convenient API for extracting and manipulating data, using the best of DOM, CSS, and jquery-like methods.
+  - ### JSoup ### - Java library for working with real-world HTML. It provides a very convenient API for extracting and manipulating data, using the best of DOM, CSS, and jquery-like methods.
     - https://jsoup.org/ (Links to an external site.)Links to an external site.
     - http://www.javatpoint.com/jsoup-tutorial (Links to an external site.)Links to an external site.
     - https://docs.oracle.com/javase/tutorial/essential/regex/ (Links to an external site.)Links to an external site.
